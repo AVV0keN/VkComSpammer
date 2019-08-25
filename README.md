@@ -13,11 +13,11 @@ Guide\Гайд
 3.Open your cmd and follow the directory \ Открой командную строку и пропиши путь к файлу 
 
 
-4.*npm init*
+4.`*npm init*`
 
-5.*npm i requests*
+5.`*npm i requests*`
 
-6.*npm i console-title*
+6.`*npm i console-title*`
 
 7. Open Boom.js and enter the id of the victim and enter the post id \ Открой Boom.js и введи айди жертвы и айди поста жертвы
 
@@ -29,4 +29,4 @@ we have a link of this kind https://vk.com/wall472165736_17102 and 472165736 id 
 Открой страницу жертвы и нажми "поделиться" ,а после нажми экспортировать .После этого мы имеем ссылку такого вида -->
 https://vk.com/wall472165736_17102 ,где 472165736 айди жертвы ну ,а 17102 айди поста. 
 
-8. *node boom.js*
+8. `*node boom.js*`
